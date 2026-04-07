@@ -1,8 +1,8 @@
 # 🚗 ParkingSystem - Módulo de Análisis de Datos (Python)
 ## Juan Felipe Martinez
-## Jorge Rodrigues (grupo miercoles 6 Am)
-## Diego (grupo miercoles 6 Am)
-## Juan Manuel (grupo miercoles 6 Am)
+## Jorge Rodrigues (grupo viernes 6 Am)
+## Diego (grupo viernes 6 Am)
+## Juan Manuel (grupo viernes 6 Am)
 
 ## 📊 Descripción
 
